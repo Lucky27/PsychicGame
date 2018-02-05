@@ -51,11 +51,8 @@ var words= [];
 		
 
 	document.querySelector("#wins").innerHTML = "wins:"+ wins;
-	
 	document.querySelector("#losses").innerHTML = "losses:" + losses;
-	
 	document.querySelector("#guess").innerHTML= "guesses:" + guesses; 
-	
 	document.querySelector("#yourGuess").innerHTML= "yourGuess:" + words;
 
 		}
